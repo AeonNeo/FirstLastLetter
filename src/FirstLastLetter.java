@@ -8,6 +8,7 @@ public class FirstLastLetter {
 
 		System.out.println("vincent's a faggot");
 		System.out.println("vincent's a faggot");
+		System.out.println("look how creative i am");
 		System.out.println("vincent's a faggot");
 		System.out.println("mins a faggot. new stuff");
 	}
