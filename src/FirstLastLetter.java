@@ -7,6 +7,7 @@ public class FirstLastLetter {
 		System.out.println("If a tree fell in the forest and nobody was around");
 
 		System.out.println("vincent's a faggot");
+		System.out.println("vincent's a huge faggot");
 		System.out.println("vincent's a faggot");
 		System.out.println("vincent's a faggot");
 		System.out.println("mins a faggot. new stuff");
